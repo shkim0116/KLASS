@@ -1,4 +1,10 @@
-# KLASS: KL-Adaptive Stability Sampling for Fast Inference in Masked Diffusion Models
+# KLASS: KL-Adaptive Stability Sampling for Fast Inference in Masked Diffusion Models (NeurIPS 2025 Spotlight)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.05664-red)](https://arxiv.org/abs/2511.05664)
+
+🎉 **Accepted at NeurIPS 2025 (Spotlight)**  
+
+**Authors:** Seo Hyun Kim*, Sunwoo Hong*, Hojung Jung, Youngrok Park, Se-Young Yun  
+\*Equal contribution
 
 **KLASS (KL-Adaptive Stability Sampling)** is a fast inference method designed to accelerate generation in masked diffusion models while maintaining high-quality outputs.
 
