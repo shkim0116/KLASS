@@ -1,4 +1,4 @@
-# KLASS: KL-Adaptive Stability Sampling for Fast Inference in Masked Diffusion Models (NeurIPS 2025 Spotlight)
+# KLASS: KL-Guided Fast Inference in Masked Diffusion Models (NeurIPS 2025 Spotlight)
 [![arXiv](https://img.shields.io/badge/arXiv-2511.05664-red)](https://arxiv.org/abs/2511.05664)
 
 🎉 **Accepted at NeurIPS 2025 (Spotlight)**  
