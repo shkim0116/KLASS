@@ -19,7 +19,7 @@ huggingface-cli download Dream-org/Dream-v0-Instruct-7B --local-dir Dream-v0-Ins
 cd ..
 
 echo "=== Replacing Dream generation_utils.py ==="
-TARGET_PATH="./models/Dream-v0-Instruct-7B/src/transformers/generation_utils.py"
+TARGET_PATH="./models/Dream-v0-Instruct-7B/generation_utils.py"
 CUSTOM_SRC="./src/model/dream_klass.py"
 
 # Ensure target directory exists
